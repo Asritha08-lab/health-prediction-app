@@ -6,6 +6,12 @@ The Health Prediction Application is a Flask-based web application that allows u
 
 The application provides complete CRUD functionality (Create, Read, Update, Delete), data validation, persistent storage using SQLite, and automated health prediction based on patient medical parameters.
 
+## Demo Video
+
+A complete walkthrough of the application demonstrating CRUD operations, data validation, database integration, and health prediction functionality is available below:
+
+[Watch Demo Video](https://drive.google.com/file/d/1CfLTvD5Y0_yT7f9NdJPdjAJSQZWrS7w9/view)
+
 ## Features
 
 - Add new patient records
